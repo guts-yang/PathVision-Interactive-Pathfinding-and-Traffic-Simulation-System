@@ -12,6 +12,8 @@
 2. **路径查找器(PathFinder)** - 实现最优路径搜索算法
 3. **交通模拟器(TrafficSimulator)** - 模拟实时交通流变化
 4. **导航可视化器(NavigationVisualizer)** - 提供交互式图形界面
+<img width="1200" height="835" alt="6a1e2479314fa79066fd6dff41316b8f" src="https://github.com/user-attachments/assets/c6f7b1d8-5c5d-4d97-acc7-dea6d4f82783" />
+
 
 ## 功能特性
 
@@ -216,4 +218,5 @@ visualization/
 - 实现更复杂的交通流模型
 - 添加交通信号灯和路口规则
 - 支持实时交通数据导入
+
 - 优化大规模地图的渲染性能
